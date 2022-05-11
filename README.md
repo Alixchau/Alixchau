@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hey there! I'm Alix.</h2>
 
-<!--
-**Alixchau/Alixchau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Passionate about designing and producing interesting projects.
+- 🎓 &nbsp; Graduate from SAIT IT diploma, software development.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Python and Next.js
+- 💜 &nbsp; Interests: foodie and kitties 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+<a href="https://github.com/Alixchau">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:alixchau831@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alixchau831@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
