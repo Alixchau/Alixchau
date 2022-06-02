@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Passionate about designing and producing interesting projects.
 - 🎓 &nbsp; Graduate from SAIT IT diploma, software development.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Python and Next.js
+- 🌱 &nbsp; Learning more about Cloud Architecture, Python and Web3
 - 💜 &nbsp; Interests: foodie and kitties 
 
 
