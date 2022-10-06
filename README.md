@@ -6,15 +6,6 @@
 - 🎓 &nbsp; Graduate from SAIT IT diploma, software development.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Python and Web3
 - 💜 &nbsp; Interests: foodie and kitties 
-
-
-<br/>
-/*
-<a href="https://github.com/Alixchau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alixchau&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alixchau&theme=buefy&layout=compact" />
-</a>
-*/
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
