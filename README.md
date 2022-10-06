@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Graduate from SAIT IT diploma, software development.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Python and Web3
 - 💜 &nbsp; Interests: foodie and kitties 
-<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
